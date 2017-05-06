@@ -88,7 +88,7 @@
 
 
 
-<img src="jprado/img.jpg" />
+<img src="https://github.com/jpradoar/GITserver/blob/master/git-diagram.jpeg" />
 
 
 
@@ -106,8 +106,8 @@
 
 
 
-<img src="jprado/git-status-RED.jpg" />
-<img src="jprado/git-status-GREEN.jpg" />
+<img src="https://github.com/jpradoar/GITserver/blob/master/git-status_no-add.png" />
+<img src="https://github.com/jpradoar/GITserver/blob/master/git-status_added.png" />
 
 
 
@@ -211,26 +211,25 @@
 
 
 
+# FALTA DOCUMENTAR EL PROCEDIMIENTO DE FORK
+	Documentación del procedimiento de fork para contribuir en otro repo! :D 
 
 
 
 
 
 
-
-
-
-
-GIT WEB (pendiente de implementar)
-  https://leninmhs.wordpress.com/2014/01/19/git-gitolite-gitweb/
-  https://dereenigne.org/debian/debian-gitweb-server/
-  https://packages.debian.org/jessie/gitweb
+#  (pendiente de implementar)
+	GIT WEB
+	https://leninmhs.wordpress.com/2014/01/19/git-gitolite-gitweb/
+	https://dereenigne.org/debian/debian-gitweb-server/
+	https://packages.debian.org/jessie/gitweb
 
 
 
 # Referencias:
-  https://git-scm.com/
-  https://github.com/git/git
-  https://www.kernel.org/pub/software/scm/git/docs/gitweb.conf.html
-  https://www.howtoinstall.co/es/debian/jessie/gitweb
+	https://git-scm.com/
+	https://github.com/git/git
+	https://www.kernel.org/pub/software/scm/git/docs/gitweb.conf.html
+	https://www.howtoinstall.co/es/debian/jessie/gitweb
 
