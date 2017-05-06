@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/jpradoar/GITserver/blob/master/git.jpg" />
+</p>
+
+
 # Case of use
 	I need install and configure a git repository to save the code of my website and then have control of my versions.
 	As well I use this repo as a link between production-server (a web server) and Jenkins, to do a deploy after every satisfactory pull
@@ -87,9 +92,9 @@
 	Here an image to ilustrate idea (very basic)
 
 
-
+<p align="center">
 <img src="https://github.com/jpradoar/GITserver/blob/master/git-diagram.jpeg" />
-
+</p>
 
 
 # I add all files (index and directories)
@@ -105,10 +110,10 @@
 	In general, when dont have files and execute "git status", the system show in red color the files that are not loaded. And after execute "git add ..." the system show files in green color
 
 
-
+<p align="center">
 <img src="https://github.com/jpradoar/GITserver/blob/master/git-status_no-add.png" />
 <img src="https://github.com/jpradoar/GITserver/blob/master/git-status_added.png" />
-
+</p>
 
 
 
@@ -210,7 +215,7 @@
 
 
 
-
+:construction: :construction: :construction:
 # FALTA DOCUMENTAR EL PROCEDIMIENTO DE FORK
 	Documentación del procedimiento de fork para contribuir en otro repo! :D 
 
@@ -218,7 +223,7 @@
 
 
 
-
+:construction: :construction: :construction:
 #  (pendiente de implementar)
 	GIT WEB
 	https://leninmhs.wordpress.com/2014/01/19/git-gitolite-gitweb/
