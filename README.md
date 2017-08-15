@@ -153,7 +153,7 @@
 
 
 ### Info:
-	After execute "git pull ..." I already have my code on my remote git repo.
+	After execute "git push ..." I already have my code on my remote git repo.
 	If you prefer, you can delete the local code, because you can clone it anytime using "git clone ..."
 
 
@@ -204,9 +204,9 @@
 	In this point, be can use Jenkins to deploy after pull on the master repository.
 	basic example 
 
-	developer01 ---> create_project ---> git add ---> git commit ---> git pull origin master --->  [CODE IN GIT] 
+	developer01 ---> create_project ---> git add ---> git commit ---> git push origin master --->  [CODE IN GIT] 
 
-	developer02 ---> git clone ---> git branch --- {modify the project code} ---> git add ---> git commit ---> git pull origin branch --->  [CODE IN GIT] ---> [CODE MODIFIED IN GIT-BRANCH]
+	developer02 ---> git clone ---> git branch --- {modify the project code} ---> git add ---> git commit ---> git push origin branch --->  [CODE IN GIT] ---> [CODE MODIFIED IN GIT-BRANCH]
 
 	developerXX ---> git merge { [CODE IN GIT]+[CODE MODIFIED IN GIT-BRANCH] } ---> [[ NEW CODE UPDATED ]]
 
