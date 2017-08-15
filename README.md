@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jpradoar/GITserver/blob/master/git.jpg" />
+<img src="git.jpg" />
 </p>
 
 
@@ -93,7 +93,7 @@
 
 
 <p align="center">
-<img src="https://github.com/jpradoar/GITserver/blob/master/git-diagram.jpeg" />
+<img src="diagram.jpeg" />
 </p>
 
 
@@ -111,8 +111,8 @@
 
 
 <p align="center">
-<img src="https://github.com/jpradoar/GITserver/blob/master/git-status_no-add.png" />
-<img src="https://github.com/jpradoar/GITserver/blob/master/git-status_added.png" />
+<img src="git-status_no-add.png" />
+<img src="git-status_added.png" />
 </p>
 
 
